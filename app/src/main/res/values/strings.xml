@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicOrganiser</string>
+    <string-array name="display_types">
+        <item>Artist</item>
+        <item>Album</item>
+    </string-array>
+    <string-array name="row_per_page">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
